@@ -1,4 +1,4 @@
-##Running the Analysis Pipeline
+##Running the Data Analysis Pipeline
 
 # Import Libraries
 import scanpy as sc
