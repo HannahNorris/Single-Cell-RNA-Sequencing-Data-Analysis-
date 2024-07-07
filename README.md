@@ -1,7 +1,5 @@
 ##Running the Analysis Pipeline
 
-The following Python script performs the analysis steps. Make sure to adjust the paths to your data files as needed.
-
 # Import Libraries
 import scanpy as sc
 import anndata as ad
